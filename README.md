@@ -14,7 +14,7 @@ O foco do estudo com o NotebookLM é aprender as principais abordagens para a ce
 ## 🎯 Objetivos
 
 * Compreender os fundamentos de AI Testing com base no syllabus CT-AI
-* Estudar e consolidar os principais conceitos exigidos para a certificação CT-AI (BSTQB)
+* Preparar base de conhecimento para obtenção da certificação CT-AI (BSTQB)
 * Identificar riscos em sistemas de IA (bias, drift, data poisoning)
 * Utilizar o NotebookLM como ferramenta de aprendizado ativo
 * Praticar engenharia de prompts para aprofundamento técnico
@@ -50,6 +50,16 @@ Refinado: Explique bias em IA com exemplos simples
 Avançado: Explique bias em IA, riscos e impacto em sistemas reais
 
 ---
+
+### 🔹 Exemplo prático de interação
+
+Pergunta: Explique o que é bias em IA  
+
+Resumo da resposta: Bias em IA é uma diferença sistemática nos resultados de um modelo, podendo gerar decisões injustas. Pode ocorrer por problemas nos dados (ex: amostragem), no algoritmo ou por fatores humanos.
+
+Aprendizado: Dados de treinamento impactam diretamente a qualidade e confiabilidade do modelo  
+
+Ajuste realizado: Foi necessário pedir exemplos práticos para melhor compreensão
 
 ### ⚠️ Dificuldades encontradas
 
@@ -103,6 +113,18 @@ Principais riscos:
 * Liste riscos e estratégias de teste para IA como serviço
 * Compare teste tradicional vs IA
 * Explique como validar um modelo de IA
+
+## 📸 Uso do NotebookLM
+
+Durante o projeto, utilizei o NotebookLM para:
+
+- Fazer perguntas baseadas nas fontes  
+- Gerar resumos e insights  
+- Explorar conceitos do syllabus CT-AI  
+
+
+<img width="1893" height="898" alt="image" src="https://github.com/user-attachments/assets/a7ca7606-bae8-4554-9039-1ba9688bc39a" />
+
 
 ---
 
