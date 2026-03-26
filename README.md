@@ -26,7 +26,7 @@
 
 Este projeto foi desenvolvido como desafio no bootcamp CI&T - Do Prompt ao Agente de Inteligência Artificial, com o objetivo de utilizar IA como ferramenta de aprendizado ativo.
 
-O foco do estudo no notebookLM é a certificação **CT-AI (Certified Tester AI Testing)**, abordando conceitos fundamentais de testes em sistemas baseados em Inteligência Artificial.
+Projeto focado no aprendizado de AI Testing utilizando o no notebookLM, com base no syllabus para a certificação **CT-AI (Certified Tester AI Testing)**, o estudo aborda conceitos fundamentais de testes em sistemas de Inteligência Artificial, incluindo riscos como bias, drift e comportamento probabilístico, aplicando engenharia de prompts para construção de conhecimento.
 
 ---
 
